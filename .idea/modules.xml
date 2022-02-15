@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collection/Collection.iml" filepath="$PROJECT_DIR$/Collection/Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KitapSiralayici/KitapSiralayici.iml" filepath="$PROJECT_DIR$/KitapSiralayici/KitapSiralayici.iml" />
       <module fileurl="file://$PROJECT_DIR$/ListeSinifiYapma/ListeSinifiYapma.iml" filepath="$PROJECT_DIR$/ListeSinifiYapma/ListeSinifiYapma.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java102.iml" filepath="$PROJECT_DIR$/.idea/java102.iml" />
