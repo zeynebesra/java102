@@ -5,10 +5,15 @@
       <module fileurl="file://$PROJECT_DIR$/Collection/Collection.iml" filepath="$PROJECT_DIR$/Collection/Collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/FiksturOlusturucu/FiksturOlusturucu.iml" filepath="$PROJECT_DIR$/FiksturOlusturucu/FiksturOlusturucu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaDatabase/JavaDatabase.iml" filepath="$PROJECT_DIR$/JavaDatabase/JavaDatabase.iml" />
       <module fileurl="file://$PROJECT_DIR$/KitapSiralayici/KitapSiralayici.iml" filepath="$PROJECT_DIR$/KitapSiralayici/KitapSiralayici.iml" />
       <module fileurl="file://$PROJECT_DIR$/ListeSinifiYapma/ListeSinifiYapma.iml" filepath="$PROJECT_DIR$/ListeSinifiYapma/ListeSinifiYapma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThreadsConcurrency/MultiThreadsConcurrency.iml" filepath="$PROJECT_DIR$/MultiThreadsConcurrency/MultiThreadsConcurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectSerialization/ObjectSerialization.iml" filepath="$PROJECT_DIR$/ObjectSerialization/ObjectSerialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/PatikaStore/PatikaStore.iml" filepath="$PROJECT_DIR$/PatikaStore/PatikaStore.iml" />
       <module fileurl="file://$PROJECT_DIR$/SigortaYonetimSistemi/SigortaYonetimSistemi.iml" filepath="$PROJECT_DIR$/SigortaYonetimSistemi/SigortaYonetimSistemi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadlerinYarisi/ThreadlerinYarisi.iml" filepath="$PROJECT_DIR$/ThreadlerinYarisi/ThreadlerinYarisi.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java102.iml" filepath="$PROJECT_DIR$/.idea/java102.iml" />
       <module fileurl="file://$PROJECT_DIR$/static/static.iml" filepath="$PROJECT_DIR$/static/static.iml" />
